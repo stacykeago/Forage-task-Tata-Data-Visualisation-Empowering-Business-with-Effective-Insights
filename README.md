@@ -1,4 +1,5 @@
 ## Forage-task-Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights
+### An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
 1. Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. 
 * What was the highest unit price sold
 * What was the revenue generated from customers with repeat purchases.
