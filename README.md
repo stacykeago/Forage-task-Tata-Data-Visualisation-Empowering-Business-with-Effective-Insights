@@ -10,3 +10,4 @@
 * Which customer has bought the most stocks and how much stock did they buy.
 * What is the percentage of customers that are repeat buyers and whether they are buying the same product?
 * Which customers have the most repeat purchases and are they buying the same product?
+2. Come up with the perfect visual which will illustrate what the senior managers are looking for in each scenario. Remember, data can be presented in multiple types of charts, but you are required to select the visual that would best display the information which is being presented.
